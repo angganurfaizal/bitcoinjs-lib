@@ -178,3 +178,4 @@ npm run-script coverage
 
 
 ## LICENSE [MIT](LICENSE)
+"# bitcoinjs-lib" 
